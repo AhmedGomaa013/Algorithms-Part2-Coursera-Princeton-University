@@ -1,4 +1,4 @@
-package Module03_WordNet;
+package Mod03_WordNet;
 
 import java.util.ArrayList;
 import java.util.HashMap;
