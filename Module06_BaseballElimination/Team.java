@@ -1,5 +1,3 @@
-package Module06;
-
 import java.util.Arrays;
 
 public class Team {

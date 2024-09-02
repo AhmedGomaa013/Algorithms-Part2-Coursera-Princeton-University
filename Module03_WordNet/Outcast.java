@@ -1,4 +1,4 @@
- package Module03;
+package Module03_WordNet;
 
 public class Outcast {
     private final WordNet wordNet;

@@ -1,4 +1,4 @@
- package Module03;
+package Module03_WordNet;
 
 import edu.princeton.cs.algs4.Digraph;
 import edu.princeton.cs.algs4.Queue;
