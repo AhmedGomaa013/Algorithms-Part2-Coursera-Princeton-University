@@ -1,4 +1,4 @@
-package Module09_Boggle;
+package Mod09_Boggle;
 
 /******************************************************************************
  *  Compilation:  javac BoggleBoard.java

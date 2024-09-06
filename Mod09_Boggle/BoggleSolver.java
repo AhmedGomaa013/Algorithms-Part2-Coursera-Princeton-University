@@ -1,4 +1,4 @@
-package Module09_Boggle;
+package Mod09_Boggle;
 
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.Queue;
